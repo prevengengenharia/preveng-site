@@ -1,0 +1,106 @@
+!DOCTYPE html
+
+html lang=pt-br
+head
+  meta charset=UTF-8
+  titlePREVENG Engenhariatitle
+  meta name=viewport content=width=device-width, initial-scale=1.0
+
+  style
+    body {
+      margin 0;
+      font-family Arial, sans-serif;
+      background #0f172a;
+      color white;
+    }
+
+    header {
+      padding 20px;
+      display flex;
+      justify-content space-between;
+      align-items center;
+      border-bottom 1px solid #333;
+    }
+
+    .logo {
+      font-weight bold;
+      font-size 20px;
+    }
+
+    .btn {
+      background orange;
+      padding 10px 15px;
+      color black;
+      text-decoration none;
+      border-radius 8px;
+      font-weight bold;
+    }
+
+    .hero {
+      padding 60px 20px;
+      text-align center;
+    }
+
+    h1 {
+      font-size 32px;
+    }
+
+    .section {
+      padding 40px 20px;
+    }
+
+    .card {
+      background #1e293b;
+      padding 20px;
+      border-radius 10px;
+      margin 10px 0;
+    }
+
+    footer {
+      padding 20px;
+      border-top 1px solid #333;
+      text-align center;
+      font-size 14px;
+      color #aaa;
+    }
+  style
+
+head
+
+body
+
+header
+  div class=logoPREVENG Engenhariadiv
+  a class=btn href=httpswa.me5531995180711WhatsAppa
+header
+
+section class=hero
+  h1Regularização de AVCB em Belo Horizonteh1
+  pEvite multas, interdições e problemas com o Corpo de Bombeiros.p
+  br
+  a class=btn href=httpswa.me5531995180711Solicitar análisea
+section
+
+section class=section
+  h2Serviçosh2
+
+  div class=cardRegularização de AVCBdiv
+  div class=cardRenovação de AVCBdiv
+  div class=cardAdequações para vistoriadiv
+  div class=cardConsultoria em incêndiodiv
+
+section
+
+section class=section
+  h2Atendimentoh2
+  pBelo Horizonte e região - Minas Geraisp
+section
+
+footer
+  PREVENG Engenharia br
+  WhatsApp (31) 99518-0711 br
+  Email prevengengenharia@gmail.com.br
+footer
+
+body
+html
